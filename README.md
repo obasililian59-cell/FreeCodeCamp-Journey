@@ -24,7 +24,7 @@ Practice:
 - Successfully inserted and displayed an image in the browser preview
 
 Example:
-<img src="wooden.jpg" alt="My inspiration image">
+<img src="wooden seat.jpg" alt="My inspiration image">
 
 Reflection:
 At first, some things didn’t work as expected, especially when previewing my file. Instead of giving up, I kept testing and switched to another editor (TrebEdit), which worked. Seeing the image display successfully felt amazing and made the learning feel real.
