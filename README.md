@@ -25,3 +25,23 @@ Practice:
 
 Reflection:
 At first, some things didn’t work as expected, especially when previewing my file. Instead of giving up, I kept testing and switched to another editor (TrebEdit), which worked. Seeing the image display successfully felt amazing and made the learning feel real.
+
+
+Day 2 – Adding Links with <a> and href
+
+Today I learned how to create hyperlinks using the <a> (anchor) tag.
+
+What I learned:
+- How to use the href attribute to link to another website
+- The basic structure of a hyperlink
+- How clickable text can redirect users to external pages
+
+Practice:
+- Created a link that redirects to Facebook using an external URL
+
+Example:
+
+<a href="https://www.facebook.com">Visit Facebook</a>
+
+Reflection:
+It was interesting to see how one simple attribute (href) makes text clickable and connects my webpage to the outside world. Each new tag is helping me understand how websites are structured.
