@@ -48,3 +48,36 @@ Example:
 
 Reflection:
 It was interesting to see how one simple attribute (href) makes text clickable and connects my webpage to the outside world. Each new tag is helping me understand how websites are structured.
+
+
+
+Day 3 – Combining Headings, Images and Links
+
+Today I practiced combining multiple HTML elements in one page.
+
+What I used:
+- Headings (<h1>, <h2>, <h3>)
+- Paragraphs (<p>)
+- Images (<img>)
+- Links (<a> with href)
+
+Example:
+
+```html
+<h1>Welcome BloomingStori</h1>
+
+<p>Consider following us for more interesting stories.</p>
+
+<h2>Read one of our stories</h2>
+
+<img src="Pulse.jpg" alt="Pulse">
+
+<h3>Read it today</h3>
+
+<a href="https://a.co/d/01T5u9qG">
+  Read Pulse:when redemption comes too late.</a>
+```
+
+Reflection:
+Today felt more structured because I combined different tags together in one layout. I am beginning to understand how a simple webpage is built using basic elements.
+
