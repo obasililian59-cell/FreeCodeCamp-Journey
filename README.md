@@ -14,9 +14,9 @@ Day 1 – HTML Basics
 Today I started the Responsive Web Design section on freeCodeCamp.
 
 What I learned:
-- How to use heading tags (<h1> to <h6>)
-- How to create paragraphs using the <p> tag
-- How to insert images using the <img> tag
+- How to use heading tags
+- How to create paragraphs using the tag
+- How to insert images using the tag
 - The importance of placing image files in the same folder as the HTML file
 
 Practice:
@@ -56,10 +56,10 @@ Day 3 – Combining Headings, Images and Links
 Today I practiced combining multiple HTML elements in one page.
 
 What I used:
-- Headings (<h1>, <h2>, <h3>)
-- Paragraphs (<p>)
-- Images (<img>)
-- Links (<a> with href)
+- Headings 
+- Paragraphs
+- Images
+- Links 
 
 Example:
 
