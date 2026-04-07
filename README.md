@@ -100,3 +100,23 @@ Example:
 
 Reflection:
 Today I understood how HTML connects to external files like CSS. Even though I haven’t fully learned CSS yet, I now know how to link a stylesheet to my HTML file. This helps me see how webpages are structured across multiple files.
+
+Day 5-Independent Practice – Bean Cake (Akara) Page
+
+Today I built my first independent HTML project without copying directly from the lesson.
+
+Project: Bean Cake (Akara) Recipe Page
+
+What I used:
+- "!DOCTYPE html" structure
+- "html", "head", and "body"
+- "meta charset="UTF-8"
+- Headings ("h1", "h2")
+- Paragraphs and "strong" for emphasis
+- Unordered list for ingredients
+- Ordered list for instructions
+- Image tag ("img")
+
+Reflection:
+This is my first independent assignment, and it feels great to build a complete webpage on my own. I’m beginning to think more about structure and organization, not just individual tags.
+
