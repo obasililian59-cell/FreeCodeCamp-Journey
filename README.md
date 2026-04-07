@@ -91,13 +91,6 @@ What I learned:
 - It can link stylesheets (CSS), fonts, and icons
 - The rel and href attributes are important when linking a CSS file
 
-Example:
-
-<head>
-  <title>My Inspiration</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-
 Reflection:
 Today I understood how HTML connects to external files like CSS. Even though I haven’t fully learned CSS yet, I now know how to link a stylesheet to my HTML file. This helps me see how webpages are structured across multiple files.
 
