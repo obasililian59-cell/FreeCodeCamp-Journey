@@ -113,3 +113,24 @@ What I used:
 Reflection:
 This is my first independent assignment, and it feels great to build a complete webpage on my own. I’m beginning to think more about structure and organization, not just individual tags.
 
+
+Day 6
+Practice Project – Mini User Profile Page
+
+In this project, I practiced using the &ltdiv&gt; element along with class and id attributes.
+
+Project Description:
+I built a Mini User Profile Page containing multiple user cards. Each user card includes a name, short description, and action buttons.
+
+Concepts Practiced:
+- Using &ltdiv&gt; to group related content
+- Applying class for repeated styling patterns
+- Using id for uniquely identifying elements
+- Structuring multiple profile sections inside a container
+
+What I Learned:
+I learned the difference between class and id:
+- Class is used for grouping elements that share similar styling.
+- Id is used to uniquely identify a specific element.
+
+This project helped me understand how to organize and label HTML elements properly in preparation for CSS styling.
