@@ -117,13 +117,13 @@ This is my first independent assignment, and it feels great to build a complete 
 Day 6
 Practice Project – Mini User Profile Page
 
-In this project, I practiced using the &ltdiv&gt; element along with class and id attributes.
+In this project, I practiced using the &lt;div&gt; element along with class and id attributes.
 
 Project Description:
 I built a Mini User Profile Page containing multiple user cards. Each user card includes a name, short description, and action buttons.
 
 Concepts Practiced:
-- Using &ltdiv&gt; to group related content
+- Using &lt;div&gt; to group related content
 - Applying class for repeated styling patterns
 - Using id for uniquely identifying elements
 - Structuring multiple profile sections inside a container
