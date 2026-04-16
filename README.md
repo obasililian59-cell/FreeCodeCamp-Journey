@@ -134,3 +134,44 @@ I learned the difference between class and id:
 - Id is used to uniquely identify a specific element.
 
 This project helped me understand how to organize and label HTML elements properly in preparation for CSS styling.
+
+
+Day 7
+Creative Writing Portfolio – Version 1
+
+Today,I built a personal creative writing portfolio entirely from memory without step-by-step guidance.
+
+Project Overview
+I created a structured HTML portfolio page showcasing my fiction writing work. The page includes:
+
+- An About Me section  
+- A Writing Profile section  
+- Core Strengths  
+- A Writing Samples section featuring multiple book entries  
+
+Each book entry contains:
+- Title  
+- Cover image  
+- Author and genre details  
+- Video preview  
+- External link to read the work  
+
+Concepts Applied
+- Proper HTML document structure (&lt;!DOCTYPE&gt; , &lt;html&gt; , &lt;head&gt; , &lt;body&gt;)
+- Meta description for SEO
+- Semantic organization using &lt;section&gt;
+- Grouping content using &lt;div&gt;
+- Use of `class` for repeated structures (book cards)
+- Use of `id` for unique elements
+- Anchor tags for internal and external navigation
+- Embedding media with &lt;img&gt; and &lt;video&gt;
+
+What This Project Represents
+This project demonstrates my ability to:
+- Build a complete structured webpage from memory
+- Organize complex content logically
+- Combine text, media, and links into a cohesive layout
+- Work independently without guided instructions
+
+This marks a transition from guided practice to independent development.
+
