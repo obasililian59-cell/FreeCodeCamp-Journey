@@ -1,0 +1,40 @@
+.Book>h3{
+    color: #006064;
+}
+.Book p{
+    color: #455A64;
+}
+nav{
+    background-color: #ECEFF1;
+    border: 2px solid white;
+    margin: 10px;
+    padding: 20px;
+    max-width: 400px;
+}
+h1{
+    color: #FFCCBC;
+}
+article{
+    background-color: #B2DFDB;
+    margin: 20px;
+    padding:30px;
+    border: 2px solid #455A64;
+}
+.Book-container{
+    border:2px solid black;
+    max-width: 400px;
+}
+.Book{
+    background-color: #FFCCBC;
+    margin: 10px;
+    padding: 20px;
+    max-width: 400px;
+}
+.Book a {
+    display: inline-block;
+    background-color: #006064;
+    color: white;
+    padding: 8px 16px;
+    margin-top: 10px;
+    text-decoration: none;
+    border-radius: 5px;
