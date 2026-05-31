@@ -1,0 +1,50 @@
+body {
+  background-image: url('Akara.jpg');
+  background-size: contain;
+  min-height: 100px;
+  color: #1a1a1a;
+  font-size: 1.2rem;
+  padding: 0.5em;
+  margin: 0.5em;
+}
+
+h1 {
+  text-align: center;
+  background-color: burlywood;
+  border-radius: 10px;
+  box-shadow: 0 0 30px gray;
+}
+
+section:not(.figure) {
+  background-color: burlywood;
+  padding: 1em;
+  margin: 0.75em;
+  box-shadow: 0 0 30px gray;
+  border-radius: 10px;
+}
+
+.figure {
+  display: flex;
+  justify-content: flex-start;
+  background-color: burlywood;
+  border-radius: 10px;
+  margin: 0.5em;
+  box-shadow: 0 0 30px gray;
+}
+
+img {
+  width: 250px;
+  height: 250px;
+  border-radius: 10px;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+footer {
+  background-color: burlywood;
+  font-size: 0.5em;
+  border-radius: 10px;
+  text-align: center;
+}
