@@ -32,7 +32,7 @@ section:not(.figure) {
   box-shadow: 0 0 30px gray;
 }
 
-img {
+img:not(.logo) {
   width: 250px;
   height: 250px;
   border-radius: 10px;
